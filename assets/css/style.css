@@ -1,0 +1,122 @@
+#myVideo {
+  position: fixed;
+  z-index: -100;
+}
+
+#menu1 { 
+  margin-left: 0%;
+  margin-right: 100%;
+}
+
+#mainNavbar i {
+  padding: 15px;
+}
+
+#search-button {
+  margin-left: 0%;
+  margin-right: 100%;
+}
+
+.craveHeader { 
+  color: white; 
+  font-family: 'Satisfy', cursive;
+  font-size: 200px; 
+}
+
+#searchBar { 
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  width: 400px;
+  font-weight: bolder; 
+}
+
+
+li:hover > ul {
+  display: inline-block
+}
+
+.card-body { 
+  width: 20%;
+  font-weight: bolder;
+  
+}
+
+.result-card-body { 
+  width: 250px;
+  padding-right: 2%;
+  padding-left: 2%; 
+  font-weight: bolder;
+  box-shadow: 3px 3px 3px 3px transparent;
+  border-width: 2px;
+  border-color: black;
+  text-align: center;
+  font-family: 'Courgette', cursive;
+  background-color: transparent;
+}
+
+.name span {
+  color: white;
+  font-size: 150px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: 600;
+  top: 0;
+  text-shadow: 5px 10px black;
+}
+ul.name:hover span {
+  text-shadow: -1px -1px 25px var(--yellow), -1px -1px 2px var(--invert);
+  transition: 2000ms ease-out;
+}
+
+
+#img { 
+  width: 200px;
+  height: 200px;
+  border: 10px solid transparent;
+}
+
+#mainNavbar .navbar-brand {
+  color: white;
+  font-weight: 600;
+  text-shadow: 2px 2px 5px black;
+}
+#mainNavbar {
+  font-size: 1.5rem;
+  font-weight: 100;
+}
+#mainNavbar .nav-link {
+  color: white;
+  font-weight: 500;
+  text-shadow: 2px 2px 5px black;
+}
+.navbar {
+  background: rgba(243, 220, 224, 0.3);
+}
+
+.name span {
+  color: white;
+  font-size: 150px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: 600;
+  top: 0;
+  text-shadow: 5px 10px black;
+}
+ul.name:hover span {
+  text-shadow: -1px -1px 25px var(--yellow), -1px -1px 2px var(--invert);
+  transition: 2000ms ease-out;
+}
+
+#clear-button {
+  margin-left: auto;
+  margin-right: auto;  
+}
+
+#moreResults-button {
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+#buttons-here{
+  margin-left: auto;
+  margin-right: auto;
+}
