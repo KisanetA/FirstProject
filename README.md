@@ -15,4 +15,4 @@ Krave is a web application that makes use of pre-existing APIs to pull up to dat
     
 
 
-![saving an uploaded picture into MySQL database ](/assets/images/krave.png)
+![Krave pulling Restaurants around Virginia that serve chicken](/assets/images/krave.png)
